@@ -1,0 +1,11 @@
+numpy
+tensorflow==2.10.1
+keras
+scikit-learn
+opencv-python
+pandas
+matplotlib
+scikit-image
+livelossplot
+scipy
+statsmodels
