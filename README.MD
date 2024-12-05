@@ -1,5 +1,4 @@
 # Image Classification of Indonesian Traditional Houses Using Convolutional Neural Network
-```markdown
 
 This project focuses on the classification of traditional houses based on image data using deep learning techniques. It provides tools for dataset preparation, model training, and evaluation, specifically tailored for image-based classification tasks.
 
